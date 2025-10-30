@@ -15,8 +15,8 @@ Data: 29/09/2025
 
 ### 1.1 Variáveis e Tipos
 
-*   Qual a diferença entre var, let e const?  
-    Var É uma declaração antiga de variável, que não é mais recomendada atualmente.
+*   Qual a diferença entre var, let e const?
+Var É uma declaração antiga de variável, que não é mais recomendada atualmente.
 
 Let: É uma variável mutável, pode mudar de valor durante o código.
 
